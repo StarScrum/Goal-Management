@@ -8,9 +8,9 @@ View list of goals in an order(yearly).
 Calculate the balance amount which needs  to achive the target.
 
 # UI
-<img width="159" alt="1dgr" src="https://github.com/StarScrum/Goal-Management/assets/169744403/5650a634-dd11-4fa9-a10c-7cdb134c6f51">
-<img width="161" alt="2ef" src="https://github.com/StarScrum/Goal-Management/assets/169744403/36c20a9e-0597-47ec-8985-fdcd1f25b5c0">
-<img width="158" alt="3etre" src="https://github.com/StarScrum/Goal-Management/assets/169744403/b66ee45a-5e4d-403b-93f9-f382594824c4">
+<img width="162" alt="1" src="https://github.com/StarScrum/Goal-Management/assets/169744403/61bde5dd-70c7-4ba2-a582-a5acb517da30">
+<img width="161" alt="2" src="https://github.com/StarScrum/Goal-Management/assets/169744403/1e55b559-3b86-44da-9b6e-94491c9679f7">
+<img width="166" alt="3" src="https://github.com/StarScrum/Goal-Management/assets/169744403/33afa5df-4946-4402-bc59-05c76e55b634">
 
 # Installation
 git clone 
